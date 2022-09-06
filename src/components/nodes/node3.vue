@@ -1,3 +1,3 @@
 <template>
-<p>console.log</p>
+  <p>Whatsapp</p>
 </template>
